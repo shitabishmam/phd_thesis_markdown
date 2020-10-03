@@ -17,7 +17,7 @@ This is the first part of the methodology. Praesent mollis sem diam, sit amet tr
 This is the second part of the methodology. Aenean vel pretium tortor. Aliquam erat volutpat. Quisque quis lobortis mi. Nulla turpis leo, ultrices nec nulla non, ullamcorper laoreet risus.
 
 <!-- 
-Comments can be added like this.
+Comments can be added like this. So cool!
 --> 
 
 ## Results
